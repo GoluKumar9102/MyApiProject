@@ -1,2 +1,2 @@
 # MyApiProject
-Electronic Store Project using Springboot
+Electronic Store Project using Springboot Author: Golu Kumar
